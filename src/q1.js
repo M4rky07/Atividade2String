@@ -9,3 +9,4 @@ console.log(verificacaoString('Boa noite')); // true
 console.log(verificacaoString(5364)) // false
 console.log(verificacaoString("m4rk")) // true
 console.log(verificacaoString('4321')) // true
+
