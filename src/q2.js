@@ -8,3 +8,5 @@ console.log(vazio(' ')); // true
 console.log(vazio('ABC')); // false
 console.log(vazio(' 123 ')); // false
 console.log(vazio('')); // true
+
+
