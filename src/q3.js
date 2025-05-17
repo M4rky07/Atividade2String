@@ -7,3 +7,5 @@ function TransformandoEmArray(str){ //CRiei uma função que recebe uma string
 }
 
 console.log(TransformandoEmArray("Lucas, João, Maria, Pedro, Ana")); // O resultado esperado é ["Lucas,", "João,", "Maria,", "Pedro,", "Ana"]clear
+
+
