@@ -7,3 +7,5 @@ function cortarInicio(frase, quantidade) {
 let resultado = cortarInicio("Júnior gomes", 6); // junior gomes equivale ao parametro frase e 6 equivale ao parametro quantidade
 
 console.log(resultado); // O resultado esperado é "Júnior"
+
+
