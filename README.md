@@ -8,13 +8,21 @@ O projeto está organizado da seguinte forma:
 
 Atividade2String/
   ├── src/
+  
   │ ├── q1.js # Questão 1
+  
   │ ├── q2.js # Questão 2
+  
   │ ├── q3.js # Questão 3
+  
   │ ├── q4.js # Questão 4
+  
   │ └── q5.js # Questão 5
+  
   ├── index.html # Página HTML para testes
+  
   └── README.md # Este arquivo
+  
   
 
 
