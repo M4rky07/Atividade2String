@@ -12,3 +12,5 @@ function AbreviNome(nome) {
 console.log(AbreviNome("Rhavy Maia Guedes")); // O resultado esperado é "Rhavy G."
 
 
+
+
